@@ -1,6 +1,6 @@
 const BASE_URL =
-  "https://join-464-default-rtdb.europe-west1.firebasedatabase.app/";
-
+  "https://join-c311f-default-rtdb.europe-west1.firebasedatabase.app/";  
+ 
 /**
  * Function to show sidebar and active menu
  */
